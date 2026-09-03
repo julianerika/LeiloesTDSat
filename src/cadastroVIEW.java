@@ -190,9 +190,8 @@ public class cadastroVIEW extends javax.swing.JFrame {
             public void run() {
                 new cadastroVIEW().setVisible(true);
             }
-        });
+        });    
     }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnCadastrar;
     private javax.swing.JButton btnProdutos;
